@@ -41,7 +41,8 @@ also using "2's Complement".
 * * *
 ### Flaws & TODOs
 - [ ] No Visual Representations. This might be added in the future.
-- [ ] Does Not Support Octal. This should be added soon.
+- [x] Does Not Support Octal. This should be added soon.
 - [ ] Does Not Support Digital Representation. ~~I don't know when this feature will be added:)~~
+- [ ] Does Not Support Operational Formula. This should be added in the future.
 
 ~~and as a non-native speaker, I mistakenly spelled "Complementary" as "Complimentary" LOL. This bug would be fixed soon.~~
