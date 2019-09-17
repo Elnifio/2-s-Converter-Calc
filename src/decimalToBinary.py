@@ -16,8 +16,8 @@ def decimal_to_binary(in_num, bin_len=8):
 
     out_arr = ""
     for index in range(bin_len):
-        quotient = in_num // 2
-        mod = in_num - (2 * quotient)
+        quotient = int(in_num) // 2
+        mod = int(in_num) - (2 * quotient)
         out_arr = str(mod) + out_arr
         in_num = quotient
     return(out_arr)
